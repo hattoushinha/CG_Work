@@ -8,3 +8,6 @@
 * [20131116 SketchWorld.png](https://github.com/hattoushinha/CG_Work/commits/master/2013/20131116%20SkechWorld.png)
 * [20131116 『Sketch World Logo』.xcf](https://github.com/hattoushinha/CG_Work/commits/master/2013/20131116%20%E3%80%8ESketch%20World%20Logo%E3%80%8F.xcf)
 * [20131116 『Sketch World Logo』.png](https://github.com/hattoushinha/CG_Work/commits/master/2013/20131116%20%E3%80%8ESketch%20World%20Logo%E3%80%8F.png)
+* [20131116 01.sai](https://github.com/hattoushinha/CG_Work/commits/master/2013/20131116%2001.sai)
+* [20131116 02.png](https://github.com/hattoushinha/CG_Work/commits/master/2013/20131116%2002.png)
+* [20131116 04.xcf](https://github.com/hattoushinha/CG_Work/commits/master/2013/20131116%2004.xcf)
